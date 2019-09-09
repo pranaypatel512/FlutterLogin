@@ -1,6 +1,6 @@
-# Flutter Login
+# Flutter Login 
 
-A new Flutter application which demonstrate sample app for login and signup
+:arrow_forward: A new Flutter application which demonstrate sample app for login and signup
 
 ## Run project
 #### Step 1. [Setting up Flutter](https://flutter.io/setup/)
@@ -34,7 +34,8 @@ $ flutter run
 [@Twitter](https://twitter.com/pranatpatel_)
 
 ### License
-```Copyright 2019 Pranay Patel
+```
+Copyright 2019 Pranay Patel
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
