@@ -3,8 +3,8 @@
 A new Flutter application which demonstrate sample app for login and signup
 
 ## Features
--> Login page design
--> SignUp page design
+* Login page design
+* SignUp page design
 
 ## Run project
 #### Step 1. [Setting up Flutter](https://flutter.io/setup/)
@@ -19,17 +19,16 @@ $ cd FlutterLogin
 $ flutter run
 ``` 
 
-
 ### To-Do
--[x] Basic design
--[ ] Navigation animation
--[ ] Theming
--[ ] Form Validation
+- [x] Basic design
+- [ ] Navigation animation
+- [ ] Theming
+- [ ] Form Validation
 
 ### Screenshots
 | Login | SignUp|
 | ------------------ | ------------------ |
-| <img src="./screenshots/login_page.png" height="400" alt="Screenshots"/>  | <img src="./screenshots/sign_up.png" height="400" alt="Screenshots"/>  |
+| <img src="./screenshots/login_page.png" height="500" alt="Screenshots"/>  | <img src="./screenshots/sign_up.png" height="500" alt="Screenshots"/>  |
 
 ## Welcome PR?
 * Check out contribution guidelines [CONTRIBUTING.md](https://github.com/pranaypatel512/FlutterLogin/blob/master/CONTRIBUTING.md)
