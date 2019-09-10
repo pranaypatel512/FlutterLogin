@@ -55,7 +55,7 @@ Even better you can submit a Pull Request with a fix.
 ### Pull Request
 To generate a pull request, please consider following [Pull Request Template](https://github.com/pranaypatel512/FlutterLogin/blob/master/PULL_REQUEST_TEMPLATE.md).
 
-* Search [GitHub](https://github.com/ichintansoni/image-picker/pulls) for an open or closed Pull Request
+* Search [GitHub](https://github.com/pranaypatel512/FlutterLogin/pulls) for an open or closed Pull Request
   that relates to your submission. You don't want to duplicate effort.
 * Please have a look at [License](https://github.com/pranaypatel512/FlutterLogin/blob/master/LICENSE) before sending pull
   requests. We cannot accept code without this.
